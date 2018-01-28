@@ -1,0 +1,20 @@
+#forma{
+background-color:green;
+width:300px;
+height:300px;
+padding:10px;
+}
+
+
+p{
+	color:white;
+	font-weight:3px;
+}
+
+#recuadro{
+	background-color: blue;
+	padding:20px;
+	height: 100px;
+	width: 320px;
+	margin-bottom:15px;
+}
